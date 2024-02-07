@@ -1,7 +1,7 @@
 # I-TEM
 Welcome to Technology and Engineering Management.
 * This page is designed for the unit Introduction to Technology and Engineering Management at the University of Canberra, S1 2024.
-* The course material and useful links will be added here to help students in their learning journey.
+* The unit material and useful links will be added here to help students in their learning journey.
 
 
 ## Quote of the Day
