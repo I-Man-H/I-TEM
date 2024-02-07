@@ -9,18 +9,17 @@ Welcome to Technology and Engineering Management.
 
 ## Weekly Course Content
 Weekly unit contents, activities and resources will be uploaded under its corresponding section.
-1. [Week 1](./Week 1.md)
-2. [Week 2](./Week 2.md)
-3. [Week 3](./Week 3/Week 3.md)
-4. [Week 4](./Week 4/Week 4.md)
-5. [Week 5](./Week 5/Week 5.md)
-6. [Week 6](./Week 6/Week 6.md)
-7. [Week 7](./Week 7/Week 7.md)
-8. [Week 8](./Week 8/Week 8.md)
-9. [Week 9](./Week 9/Week 9.md)
-10. [Week 10](./Week 10/Week 10.md)
-11. [Week 12](./Week 12/Week 12.md)
-12. [Week 13](./Week 13/Week 13.md)
+1. [Week 2](./Week 2.md)
+2. [Week 3](./Week 3/Week 3.md)
+3. [Week 4](./Week 4/Week 4.md)
+4. [Week 5](./Week 5/Week 5.md)
+5. [Week 6](./Week 6/Week 6.md)
+6. [Week 7](./Week 7/Week 7.md)
+7. [Week 8](./Week 8/Week 8.md)
+8. [Week 9](./Week 9/Week 9.md)
+9. [Week 10](./Week 10/Week 10.md)
+10. [Week 12](./Week 12/Week 12.md)
+11. [Week 13](./Week 13/Week 13.md)
 
 ## Assessments
 1. Quizzes (10%)
