@@ -9,7 +9,7 @@ Welcome to Technology and Engineering Management.
 
 ## Weekly Course Content
 Weekly unit contents, activities and resources will be uploaded under its corresponding section.
-1. [Week 2](./Week 2.md)
+1. [Week 2](./Week 2/Week 2.md)
 2. [Week 3](./Week 3/Week 3.md)
 3. [Week 4](./Week 4/Week 4.md)
 4. [Week 5](./Week 5/Week 5.md)
