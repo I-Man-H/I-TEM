@@ -36,11 +36,6 @@ Weekly unit contents, activities and resources will be uploaded under its corres
 3. Individualised Term Assignment  🔲
 4. Peer Evaluation  🔲
 5. Presentation Peer Evaluation   🔲
-   
-
-%## Marking Rubric
-%[Marking Rubric](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2805673) for Career Episode Pieces, Group Project, Presentation and Toolkit can be found on Wattle.
-
 
 ## Code of Conduct
 * Engineers Australia (EA) - [Code of Ethics and Guidelines on Professional Conduct](https://www.engineersaustralia.org.au/sites/default/files/2022-08/code-ethics-guidelines-professional-conduct-2022.pdf)
