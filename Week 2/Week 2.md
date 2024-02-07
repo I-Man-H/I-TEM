@@ -97,15 +97,15 @@ The Australian Government has developed a national blockchain roadmap and will p
 ## USEFUL LINKS
 
 1. Engineers and Engineering Management
-  * [1](https://arc.dev/employer-blog/how-to-be-a-great-engineering-manager/)
-  * [2](https://blog.pragmaticengineer.com/things-ive-learned-transitioning-from-engineer-to-engineering-manager/)
+  * [Link 1](https://arc.dev/employer-blog/how-to-be-a-great-engineering-manager/)
+  * [Link 2](https://blog.pragmaticengineer.com/things-ive-learned-transitioning-from-engineer-to-engineering-manager/)
 
 2. Australian Blockchain Industry
-   * [1](https://www.minister.industry.gov.au/ministers/karenandrews/media-releases/advancing-australias-blockchain-industry)
-   * [2](https://www.industry.gov.au/science-technology-and-innovation/technology)
+   * [Link 1](https://www.minister.industry.gov.au/ministers/karenandrews/media-releases/advancing-australias-blockchain-industry)
+   * [Link 2](https://www.industry.gov.au/science-technology-and-innovation/technology)
   
 3. Full National Blockchain Roadmap
-   * [1](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://apo.org.au/sites/default/files/resource-files/2020-02/apo-nid276541.pdf)
+   * [Link 1](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://apo.org.au/sites/default/files/resource-files/2020-02/apo-nid276541.pdf)
   
 
 ## QUESTIONS?
