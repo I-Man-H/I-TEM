@@ -114,7 +114,7 @@ The Australian Government has developed a national blockchain roadmap and will p
 
 ## THANK YOU
 SEE YOU NEXT WEEK
-![image](https://github.com/I-Man-H/I-TEM/assets/125527438/ff3e5d49-2fbf-47bc-a0bd-c7cb9b00df65)
+
 
 # TO DO LIST
 1. 
