@@ -35,25 +35,30 @@ Imagine you are a tech start-up that wants to develop a new VR headset for gamin
 GROUP FORMATION
 
 ## GROUP INSTRUCTIONS
-
-* Term assignment starts TODAY
-* Form groups of 3 - 4 with your classmates
+1. Term assignment starts TODAY
+2. Form groups of 3 - 4 with your classmates
   * All group members MUST be in the same tutorial
   * Work with the same group each week
   * If you have an RAP for working individually, please let your tutor know ASAP
 
-* Exchange contact information and create a shared working area (e g a shared Google Doc)
+3. Exchange contact information and create a shared working area
   * Make sure all members have access to the shared working area
   * Write the answers to the term assignment questions each week in your working area
-* The submission will include a subset of the questions you will be working on throughout the semester
-  * The actual questions required for the submission will be provided close to the due date, and you can copy paste answers from your Google Doc
-* There are marks for attendance and participation.
-  * So, please attend the tutorials.
+4. The submission will include a subset of the questions you will be working on throughout the semester
+  * The actual questions required for the submission will be provided close to the due date, and you can copy-paste answers from your shared document.
+5. There are marks for attendance and participation.
+  * Please attend the tutorials.
   * Contribute meaningfully (not by distracting or saying random things) in the tutorial discussions
-* There will also be peer evaluation done by all the
-team members
+6. There will also be peer evaluation done by all the team members
   * So, please contribute fairly and work well with your team
 
+
+## Shared Working Areas
+1. Microsoft OneDrive (***Recommended***)
+2. Google Drive
+3. Dropbox
+4. Canvas
+5. 
 
 ## TERM ASSIGNMENT
 ### WEEK 2 ACTIVITY
