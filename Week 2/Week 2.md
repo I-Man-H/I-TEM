@@ -58,15 +58,17 @@ GROUP FORMATION
 2. Google Drive
 3. Dropbox
 4. Canvas
-5. 
+5. [Miro](https://miro.com/) (***My favourite***)
 
 ## TERM ASSIGNMENT
-### WEEK 2 ACTIVITY
-BLOCKCHAIN START-UP SCENARIO
+
+*WEEK 2 ACTIVITY*
+
+**BLOCKCHAIN START-UP SCENARIO**
 
 ## ADVANCING AUSTRALIA’S BLOCKCHAIN INDUSTRY
 
-The Australian Government has developed a national blockchain roadmap and will provide 100 000 in funding in order to help position the Australian blockchain industry a global leader
+The Australian Government has developed a national blockchain roadmap and will provide 100 000 in funding in order to help position the Australian blockchain industry as a global leader
 * [For more information, click here](https://www.minister.industry.gov.au/ministers/karenandrews/media-releases/advancing-australias-blockchain-industry)
 
 
