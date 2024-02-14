@@ -14,9 +14,9 @@ Weekly unit contents, activities and resources will be uploaded under its corres
 
 ## Assessments
 1. Quizzes - Weekly Reflections (10%)
-2. [First Assessment](./First Assessment.md) (30%)
+2. First Assessment (30%)
 3. Presentation (15%)
-4. Individualised Term Assignment (35%)
+4. [Individualised Term Assignment](./Term Assessment.md) (35%)
 5. Peer Evaluation (5%)
 6. Presentation Peer Evaluation (5%)
 
