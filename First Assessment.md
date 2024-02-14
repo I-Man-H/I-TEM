@@ -48,4 +48,4 @@ The Australian Government has developed a national blockchain roadmap and will p
    * [Link 2](https://www.industry.gov.au/science-technology-and-innovation/technology)
   
 3. Full National Blockchain Roadmap
-  * [Link 1](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://apo.org.au/sites/default/files/resource-files/2020-02/apo-nid276541.pdf)
+  * [Link 1](https://apo.org.au/sites/default/files/resource-files/2020-02/apo-nid276541.pdf)
