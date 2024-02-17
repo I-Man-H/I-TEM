@@ -50,15 +50,52 @@ A large European manufacturer has approached UCChain to assist them in utilising
 Your Engineering manager has provided the following estimates of the costs to develop each option and the expected revenue from two success scenarios.
 
 
+|  **OPTION** | **COST TO DEVELOP SOLUTION** | **MODERATE SUCCESS** |  **GREAT SUCCESS** |
+|----------|----------|----------|----------|
+| a | -60,000 | 250,000 | 350,000 |
+| b | -400,000 | 300,000 | 930,000 |
+| c | -25,000 | 125,000 | 275,000 |
+
+_Table 2 – Financial conditions for decision making_
 
 
 
+# QUESTIONS (FOR BOTH 9789 & 9784) – DECISION MAKING
+
+1. Using the information from the Engineering Manager on the previous page, which development option (a,b, or c) will you move forward with and why?
+2. Using the option you selected above, use a Wardley Mapping approach or a high-level project plan (overview, timeline and major deliverables) for completing the work. Complete either of these options on one (1) page.
+3. In less than 300 words, describe your considerations and assumptions, and whether you are optimising for time, cost, or quality, and why.
+
+# QUESTION (FOR 9784 ONLY) – FORECASTING
+
+Read the following technology and answer the following questions.
+[Click Here](https://hackernoon.com/when-should-your-business-think-about-blockchain-f1937c7c35e1)
+1. In less than 200 words, predict some existing technologies that may be substituted by blockchain in the future
+2. In less than 350 words, describe how you envision a digital world that has been transformed by blockchain would look like.
 
 
+# GENERAL TIPS FOR ANSWERING QUESTIONS
 
+* Be succinct and to the point – *Do not* exceed the word limit
+* Don’t simply make assertions – justify your claims with arguments based on research supported by references
+* Use the links and resources provided for reference, but do your own research as well
+* Use the textbook and lecture slides to learn & understand the unit content and apply the concepts in your answers
+* Brainstorm ideas as a group and divide the work fairly and evenly
+* Save your responses to the term assignment questions in your group’s shared working area
+* Explicitly state any assumptions that you make (doesn’t count towards word count)
 
+# USEFUL LINKS
 
+1. Blockchain in automotive industry
+  * [Link 1](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8626103)
+  * [Link 2](https://www.forbes.com/sites/forbestechcouncil/2021/12/22/blockchain-in-the-automotive-sector-three-use-cases-and-three-challenges/?sh=672ff56c2508)
+  * [Link 3](https://www.ibm.com/downloads/cas/D9KWXMDW)
 
+2. Blockchain S-Curve
+  * [Link 1](https://hackernoon.com/when-should-your-business-think-about-blockchain-f1937c7c35e1)
+
+3. VR RISKS
+   * [Link 1](https://www.usenix.org/conference/enigma2020/presentation/pearlman)
 
 
 
