@@ -98,7 +98,21 @@ Read the following technology and answer the following questions.
    * [Link 1](https://www.usenix.org/conference/enigma2020/presentation/pearlman)
 
 
+# OTHER USEFUL LINKS
+1. [Agile Manifesto](https://agilemanifesto.org/)
+2. [SAFe Business Agility](https://scaledagileframework.com/business-agility/)
+3. [Simon Senek Start with Why Video](https://www.youtube.com/watch?v=qp0HIF3SfI4)
+4. [Simon Wardley Crossing the Rivers by Feeling the Stones](https://www.youtube.com/watch?v=2IW9L1uNMCs)
+5. [PM Body of Knowledge Guide](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+6. [Australia's Economic Accelerator Seed Grants](https://www.education.gov.au/australias-economic-accelerator)
+7. [Technology and Commercial Readiness Levels](https://arena.gov.au/assets/2014/02/Technology-Readiness-Levels.pdf)
+8. [Axelos and PRINCE2 Info](https://www.axelos.com/certifications/propath/prince2-project-management)
+9. [Learn Wardley Mapping](https://learnwardleymapping.com/)
 
+
+# Wardley Map Template
+You can use the following template for the Wardley Map:
+[Click Here](https://uclearn.canberra.edu.au/courses/15489/files/4661692?module_item_id=1173117)
 
 
 ## QUESTIONS?
