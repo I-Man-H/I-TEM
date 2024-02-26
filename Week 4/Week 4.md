@@ -61,9 +61,22 @@ ensure the team remains focused on customer value alignment.
   * [Link 1](https://hackernoon.com/when-should-your-business-think-about-blockchain-f1937c7c35e1)
 
 
+# OTHER USEFUL LINKS
+1. [Virtual team learning](https://uclearn.canberra.edu.au/courses/15489/files/4661694?module_item_id=1173124)
+2. [Creative Problem Solving for Managers](https://uclearn.canberra.edu.au/courses/15489/files/4661695?module_item_id=1173125)
+3. [PWC Customer-driven Innovation](https://www.pwc.com.au/digitalpulse/customer-innovation-market-feedback.html)
+4. [Customer-driven Innovation Examples](https://hiverhq.com/blog/customer-driven-innovation)
+5. [HBR - Customer Input to Innovation](https://hbr.org/2002/01/turn-customer-input-into-innovation)
+6. [Team Charter Guide](https://www.ccl.org/articles/leading-effectively-articles/what-is-this-team-for-and-why-am-i-here/)
+7. [Digital Identity Truce](https://www.themandarin.com.au/213155-truce-called-in-digital-identity-turf-wars-between-canberra-and-states/)
+8. [AFR Article - Digital Identity and customer alignment](https://www.afr.com/politics/federal/ministers-ready-national-digital-identity-scheme-20230209-p5cja0)
+9. [ITNews Article - ANAO Digital ID Audit Proposed](https://www.itnews.com.au/news/auditor-re-sets-sights-on-australias-digital-id-scheme-582307)
+10. [Decision-making comparison ](https://www.sociocracyforall.org/decision-making-methods-comparison/)
 
+# Customer Engagement Template
+You can use the following template for the customer engagement.
+[Click Here](https://uclearn.canberra.edu.au/courses/15489/files/4661726?module_item_id=1173131)
 
-  
 
 ## QUESTIONS?
 ![image](https://github.com/I-Man-H/I-TEM/assets/125527438/f49bdc28-177f-4e89-9b83-99088bd1eb65)
