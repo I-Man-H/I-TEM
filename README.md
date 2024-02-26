@@ -11,6 +11,7 @@ Welcome to Technology and Engineering Management.
 Weekly unit contents, activities and resources will be uploaded under its corresponding section.
 1. [Week 2 - ENGINEERING MANAGEMENT, GLOBALISATION, AND ETHICS](./Week 2/Week 2.md)
 2. [WEEK 3 - METHODS FOR T&E INNOVATION](./Week 3/Week 3.md)
+3. [WEEK 4 - METHODS FOR T&E INNOVATION](./Week 4/Week 4.md)
 
 
 ## Assessments
