@@ -7,15 +7,18 @@ TUTORIAL 4, WEEK 5
 
 
 # AGENDA
-1. Icebreaker
-2. Discussion questions
-3. Term assignment questions
+1. Discussion questions
+2. Term assignment questions
 
 
 # DISCUSSION QUESTIONS
 _PARTICIPATION MARKS IN YOUR TERM ASSIGNMENT WILL BE BASED ON YOUR PARTICIPATION IN THE DISCUSSION, SO PLEASE CONTRIBUTE MEANINGFULLY._
 
-In this week's lecture we did a deep dive into Scrum.
+In this week's lecture, we did a deep dive into Scrum.
+
+<img width="799" alt="Screenshot 2024-03-06 at 12 27 05 pm" src="https://github.com/I-Man-H/I-TEM/assets/125527438/ae131916-11d8-45f4-910f-f88e7f54b66e">
+
+
 
 Thinking back, or looking at the slides, let's discuss the implications of using the Scrum framework to deliver software:
   1. What are some of the advantages or disadvantages of using Scrum?
