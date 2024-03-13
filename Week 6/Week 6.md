@@ -7,10 +7,9 @@ TUTORIAL 5, WEEK 6
 
 
 # AGENDA
-1. Update - Lean Six Sigma Postponed
-2. Mid-semester assignment
-3. Discussion questions
-4. Term assignment questions
+1. Mid-semester assignment
+2. Discussion questions
+3. Term assignment questions
 
 
 
