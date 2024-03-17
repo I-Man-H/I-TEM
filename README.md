@@ -14,7 +14,7 @@ Weekly unit contents, activities and resources will be uploaded under its corres
 3. [WEEK 4 - METHODS FOR T&E INNOVATION](./Week 4/Week 4.md)
 4. [WEEK 5 - SCRUM FRAMEWORK](./Week 5/Week 5.md)
 5. [Week 6 - RECAP](./Week 6/Week 6.md)
-
+6. [Week 7 - LEADERSHIP](./Week 7/Week 7.md)
 
 ## Assessments
 1. Quizzes - Weekly Reflections (10%)
