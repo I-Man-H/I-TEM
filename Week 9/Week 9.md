@@ -93,6 +93,11 @@ _Note: You can use tools like draw.io, Figma, Paint, etc._
 * Explicitly state any assumptions that you make (doesn’t count towards word count).
 
 
+# USEFUL LINKS
+1. [Next frontiers for lean](https://www.mckinsey.com/capabilities/operations/our-insights/next-frontiers-for-lean)
+2. [LSSSP-MIT-leansixsigmayellowbelt-courseware](https://uclearn.canberra.edu.au/courses/15489/files/4661584?module_item_id=1173160)
+3. [Value Stream mapping by Karen Martin and Mike Osterling](https://books.google.com.au/books/about/Value_Stream_Mapping_How_to_Visualize_Wo.html?id=ll7imAEACAAJ&redir_esc=y)
+
 
 
 
