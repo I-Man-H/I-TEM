@@ -15,6 +15,7 @@ Weekly unit contents, activities and resources will be uploaded under its corres
 4. [WEEK 5 - SCRUM FRAMEWORK](./Week 5/Week 5.md)
 5. [Week 6 - RECAP](./Week 6/Week 6.md)
 6. [Week 7 - LEADERSHIP](./Week 7/Week 7.md)
+7. [Week 9 - LEAN SIGMA](./Week 9/Week 9.md)
 
 ## Assessments
 1. Quizzes - Weekly Reflections (10%)
