@@ -16,6 +16,7 @@ Weekly unit contents, activities and resources will be uploaded under its corres
 5. [Week 6 - RECAP](./Week 6/Week 6.md)
 6. [Week 7 - LEADERSHIP](./Week 7/Week 7.md)
 7. [Week 9 - LEAN SIGMA](./Week 9/Week 9.md)
+8. [Week 10 - Managing Non-Technical Elements in T&E](./Week 10/Week 10.md)
 
 ## Assessments
 1. Quizzes - Weekly Reflections (10%)
