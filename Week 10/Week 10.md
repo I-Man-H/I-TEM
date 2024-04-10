@@ -65,6 +65,12 @@ In 450 words explain the approaches, tools or techniques you could use across UC
 **_Hint:_** There are stakeholder tools (e.g. matrix, blast radius) in the lecture material.
 Feel free to make any relevant assumptions (these are not counted in your word count).
 
+### Stakeholder Analysis
+
+ * Influence-Interest Diagram
+<img width="428" alt="Screen Shot 2023-03-22 at 10 29 03 am" src="https://user-images.githubusercontent.com/125527438/226764506-14c55f9a-9d42-4b15-aa71-7651313adbe4.png">
+
+
 # GENERAL TIPS FOR ANSWERING QUESTIONS
 
 * Be succinct and to the point – *Do not* exceed the word limit
