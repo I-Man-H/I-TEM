@@ -17,6 +17,7 @@ Weekly unit contents, activities and resources will be uploaded under its corres
 6. [Week 7 - LEADERSHIP](./Week 7/Week 7.md)
 7. [Week 9 - LEAN SIGMA](./Week 9/Week 9.md)
 8. [Week 10 - Managing Non-Technical Elements in T&E](./Week 10/Week 10.md)
+9. [Week 11 - Legal, Compliance, and Ethics in Innovation](./Week 11/Week 11.md)
 
 ## Assessments
 1. Quizzes - Weekly Reflections (10%)
