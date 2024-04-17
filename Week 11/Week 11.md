@@ -67,6 +67,10 @@ You decide to conduct a pre-mortem in your team assuming that the worst-case sce
 
 **_Hint:_** Ishakawa can help. Use your imagination about the things that could go wrong.
 
+# Useful Video
+
+* [Spotify Engineering Culture (by Henrik Kniberg)](https://www.youtube.com/watch?v=4GK1NDTWbkY)
+
 # GENERAL TIPS FOR ANSWERING QUESTIONS
 
 * Be succinct and to the point – *Do not* exceed the word limit
