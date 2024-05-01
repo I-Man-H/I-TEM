@@ -19,6 +19,7 @@ Weekly unit contents, activities and resources will be uploaded under its corres
 8. [Week 10 - MANAGING NON-TECHNICAL ELEMENTS in T&E](./Week 10/Week 10.md)
 9. [Week 11 - LEGAL, COMPLIANCE, and ETHICS in INNOVATION](./Week 11/Week 11.md)
 10. [Week 12 - TERM ASSIGNMENT INSTRUCTIONS](./Week 12/Week 12.md)
+11. [Week 13 - PRESENTATION](./Week 13/Week 13.md)
 
 ## Assessments
 1. Quizzes - Weekly Reflections (10%)
